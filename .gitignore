@@ -1,3 +1,7 @@
 /node_modules/
+package-lock.json
 bundle.js
 bundle.js.map
+
+ol-custom.js
+ol-custom.js.map
